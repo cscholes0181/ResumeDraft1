@@ -1,24 +1,31 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+# Corey Scholes, PhD
+Scientist
+| [cscholes181@gmail.com](mailto:cscholes181@gmail.com)
+| [+61 411 032 987](tel:+61411032987)
 | [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+| [linkedin.com/in/coreyscholes](https://www2.linkedin.com/in/coreyscholes/)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Chief Science Officer, EBM Analytics
+*January 2022 - Present*
 
 - Utilize data analysis to optimize business operations and increase efficiency
 - Collaborate with cross-functional teams to develop predictive models
 - Lead data visualization projects to present findings to stakeholders
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Co-Founder, EBM Analytics
+*July 2016 - Present*
+
+- Assisted in cleaning and analyzing large datasets for business insights
+- Supported the development of dashboards for real-time business tracking
+- Provided actionable recommendations to improve marketing strategies
+
+### Director of Research, Sydney Orthopaedic Research Institute
+*October 2009 - September 2016*
 
 - Assisted in cleaning and analyzing large datasets for business insights
 - Supported the development of dashboards for real-time business tracking
@@ -26,34 +33,37 @@ Data-driven professional with a passion for uncovering insights from data to sol
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Doctor of Philosophy  
+*Queensland University of Technology*  
+*2005 - 2009*
+
+### Bachelor of Applied Science (Honours)  
+*Queensland University of Technology*  
+*2004*
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
+- Data Analysis: SQL, R
 - Visualization Tools: Tableau, PowerBI
 - Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+- Statistical Analysis: STATA, R
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+- Good Clinical Practice
+- 
 
 ## Projects
 
-### Sales Forecasting Model
+### Design, Implement and Support Clinical Quality Registry
 Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
 
-### Customer Segmentation Analysis
+### Conceive, Lead, Manage Clinical Research
 Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
 
 ## Interests
 
