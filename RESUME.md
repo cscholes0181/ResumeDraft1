@@ -33,15 +33,17 @@ Scientist and research professional with a passion for uncovering insights from 
 
 ## Education
 
-### Doctor of Philosophy
+#### *Queensland University of Technology*
 
-*Queensland University of Technology*\
 *2005 - 2009*
 
-### Bachelor of Applied Science (Honours)
+PhD in functional anatomy and biomechanics, School of Human Movement Studies, Faculty of Health and the Institute of Health and Biomedical Innovation.
 
-*Queensland University of Technology*\
+Dissertation: "The effect of muscle fatigue on knee biomechanics during landing"
+
 *2004*
+
+**Bachelor of Applied Science (Honours)**
 
 ## Skills
 
